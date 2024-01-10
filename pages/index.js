@@ -39,12 +39,14 @@ export default function Home() {
 
         <img src="/frankchillin.png"/>
 
-        <h3 className="description">
+   /*     <h3 className="description">
           Frank Gallery:
         </h3>
 
         <img src="/frankpeeking.png"/>
-          
+   */
+    // Figure out how to extend page size
+    
       </main>
 
       <Footer />

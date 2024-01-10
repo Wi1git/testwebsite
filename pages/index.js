@@ -31,7 +31,9 @@ export default function Home() {
         <p className="description">
           Overall I'm chilling and happy as ever, check me out!
         </p>
-        
+
+        <img src="/frankchillin.png"/>
+    
       </main>
 
       <Footer />

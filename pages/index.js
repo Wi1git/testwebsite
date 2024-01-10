@@ -30,9 +30,11 @@ export default function Home() {
 
         <p className="description">
           Overall I'm chilling and happy as ever, check me out!
+    
+          <img src="/frankchillin.png" className={styles.logo} />
+    
         </p>
-
-        <img src="/frankchillin.png" className={styles.logo} />
+        
       </main>
 
       <Footer />

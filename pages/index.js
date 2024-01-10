@@ -18,19 +18,19 @@ export default function Home() {
         </h3>
     
         <p className="description">
-          Judy last fed me 9999999 days ago.
+          Judy last fed me at 8:18 PM.
         </p>
     
         <p className="description">
-          Judy last cleaned my tank 9999999 days ago.
+          Judy last cleaned my tank on January 7, 2024.
         </p>
 
         <p className="description">
-          Judy last changed my tank filter 9999999 days ago.
+          Judy last changed my tank filter on January 7, 2024.
         </p>
 
         <p className="description">
-          My tank temperature is currently 42069°F.
+          My tank temperature is currently 82.9°F.
         </p>
 
         <p className="description">

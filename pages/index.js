@@ -12,6 +12,11 @@ export default function Home() {
 
       <main>
         <Header title="Hi world my name is Frank Oogway!" />
+
+        <h1 className="description">
+          I am a Red Slider Turtle and I was born (allegedly) on January 5, 2024!
+        </h1>
+    
         <p className="description">
           Judy last fed me 9999999 days ago.
         </p>

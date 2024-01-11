@@ -14,11 +14,11 @@ export default function Home() {
         <Header title="Hi world my name is Frank Oogway!" />
 
         <h3 className="description">
-          I am a Red Slider Turtle and I was born (allegedly) on January 5, 2024!
+          I am a Red Slider Turtle and I was adopted on January 5, 2024!
         </h3>
     
         <p className="description">
-          Judy last fed me at 8:18 PM.
+          Judy last fed me at 9:00 PM on January 10, 2024
         </p>
     
         <p className="description">
